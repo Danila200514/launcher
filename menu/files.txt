@@ -50,7 +50,6 @@ menu
 /menu/lib/menu.jar
 /menu/lib/video.jar
 /menu/lib/zlib1.dll
-/menu/lib/plugins/DirectoryList2.pde
 /menu/lib/plugins/libgstadder.dll
 /menu/lib/plugins/libgstadpcmdec.dll
 /menu/lib/plugins/libgstadpcmenc.dll
